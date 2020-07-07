@@ -34,3 +34,5 @@ export const METADATA_OIDC = {
   // revocation_endpoint: process.env.REACT_APP_AUTH_URL + "/api/openid_connect/revocation",
   // introspection_endpoint: process.env.REACT_APP_AUTH_URL + "/api/openid_connect/introspect"
 }
+
+
